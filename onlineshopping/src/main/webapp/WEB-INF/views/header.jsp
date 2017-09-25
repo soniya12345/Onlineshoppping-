@@ -11,7 +11,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<nav id = "navbar-red" class ="navbar navbar-inverse navbar-static-top" role="navigation">
+<nav id = "navbar-red" class ="navbar navbar-inverse navbar-static-down" role="navigation">
 <div class="container">
 <ul class="nav navbar-nav">
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-nav">
@@ -31,5 +31,7 @@
 </ul>
 </div>
 </nav>
+
+
 </body>
 </html>

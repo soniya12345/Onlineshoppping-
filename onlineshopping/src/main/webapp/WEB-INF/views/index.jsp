@@ -45,5 +45,7 @@ src="resources/tv3.jpg" style="width:100%">
 </a>
 </div>
 </div>
+
 </body>
+<%@ include file="footer.jsp"%>
 </html>
